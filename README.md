@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 -This project was built so Full-Stack Coding Bootcamp students could have notes to study as we progress along our journey to better ourselves (myself included) and intern the world around us.
 -
 
